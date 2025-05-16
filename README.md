@@ -1,5 +1,4 @@
 # Cofactor AI MLE Takehome - Part 1
-
 Christian Colella
 
 ## Quick Start
